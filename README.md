@@ -3,6 +3,6 @@
 
 # images
 
-![](https://raw.githubusercontent.com/GodVas/BackPackPlus/master/image1.jpg)
-![](https://raw.githubusercontent.com/GodVas/BackPackPlus/master/image2.jpg)
-![](https://raw.githubusercontent.com/GodVas/BackPackPlus/master/image3.jpg)
+![](https://github.com/GodVas/BackPackPlus/blob/main/images/image1.jpg)
+![](https://github.com/GodVas/BackPackPlus/blob/main/images/image2.jpg)
+![](https://github.com/GodVas/BackPackPlus/blob/main/images/image3.jpg)

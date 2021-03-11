@@ -1,0 +1,6 @@
+prefix: "§l§b>>§r§7 "
+
+backpack.item.id: 450
+backpack.item.meta: 0
+backpack.item.name: "§l§fBackPack§r"
+backpack.item.lore: "§r§7You can open your backpack inventory with a touch."

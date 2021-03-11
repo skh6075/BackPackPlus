@@ -1,0 +1,6 @@
+prefix: "§l§b[알림]§r§7 "
+
+backpack.item.id: 450
+backpack.item.meta: 0
+backpack.item.name: "§l§f배낭§r"
+backpack.item.lore: "§r§7터치로 배낭 인벤토리를 열 수 있습니다."

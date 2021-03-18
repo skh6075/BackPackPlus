@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/GodVas/BackPackPlus
+build-by-default: true
+branches:
+- main
+projects:
+  BackPackPlus:
+    path: ""
+...

@@ -1,0 +1,6 @@
+prefix: "§l§b>>§r§7 "
+
+backpack.item.id: 450
+backpack.item.meta: 0
+backpack.item.name: "§l§fРюкзак§r"
+backpack.item.lore: "§r§7Вы можете открыть рюкзак касанием."
